@@ -239,3 +239,4 @@ html, body {
   .print-summary-table, .print-table { width: 100%; border-collapse: collapse; font-size: 12.5px; margin-bottom: 8px; }
   .print-summary-table td, .print-table th, .print-table td { padding: 6px 8px; border-bottom: 1px solid #ddd; }
 }
+
