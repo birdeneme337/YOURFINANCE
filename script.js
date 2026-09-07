@@ -1391,3 +1391,4 @@ function PrintReport({ transactions, startDate, endDate, totals, pieData }) {
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<FinansimApp />);
+
